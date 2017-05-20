@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_MyAssets/_Scenes/160810_StackBoxes.unity
+  isLoaded: 1
+  isActive: 1
